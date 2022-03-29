@@ -1,0 +1,11 @@
+buffer overflow 2 | | | 300 points
+Tags: 
+
+Author: Sanjay C / Palash Oswal
+Description
+
+Control the return address and arguments This time you'll need to control the 
+arguments to the function you return to! Can you get the flag from this program?
+You can view source here. And connect with it using nc saturn.picoctf.net 56873
+
+debug info: [u:195719 e:70 p:48260 c:259 i:293245]
